@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Dynamically rendered restaurant homepage. Used JavaScript alone to generate the entire contents of the website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RolandoGR/Restaurant-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RolandoGR/Restaurant-page/issues"
+  },
+  "homepage": "https://github.com/RolandoGR/Restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
